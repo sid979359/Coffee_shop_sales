@@ -1,116 +1,111 @@
-# Coffee_shop_sales
-☕ Coffee Shop Sales Analysis Dashboard
-📌 Project Overview
+# ☕ Coffee Shop Sales Dashboard
 
-This project analyzes coffee shop retail sales data to uncover customer behavior patterns, peak sales periods, product performance, and store-level insights. The dashboard was built in Excel using Pivot Tables, measures, and interactive visuals to support data-driven decision-making.
+> Interactive Excel dashboard analyzing coffee shop retail performance  
+> Focus: sales trends • customer behavior • product insights
 
-The goal is to transform raw transaction data into actionable business insights that can improve operations and profitability.
+---
 
-📊 Dashboard Highlights
+## 📌 About the Project
 
-The dashboard includes:
+This project explores real-world coffee shop transaction data and transforms it into a dynamic Excel dashboard.  
+The objective is to uncover patterns in sales, peak hours, customer spending, and store performance.
 
-Hourly sales trend analysis
+Instead of raw spreadsheets, the data is converted into visuals that support faster and smarter business decisions.
 
-Store-level revenue and footfall comparison
+---
 
-Top-performing product analysis
+## 🎯 Key Questions Answered
 
-Category distribution breakdown
+- When are the busiest sales hours?
+- Which stores generate the most revenue?
+- What products sell the best?
+- How much does each customer spend on average?
+- How do categories contribute to total sales?
 
-KPI cards for quick performance tracking
+---
 
-Interactive slicers for month and weekday filtering
+## 📊 Dashboard Features
 
-🔍 Key Business Insights
-Sales by Hour
+- KPI performance cards
+- Hourly sales trend visualization
+- Store revenue vs footfall comparison
+- Top-selling product ranking
+- Category distribution charts
+- Interactive month & weekday slicers
 
-Sales are concentrated in the morning, with a strong peak between 8 AM and 10 AM. After late morning, sales gradually decline.
+---
 
-👉 The coffee shop operates as a morning-driven business
-👉 Peak hours align with commuter and breakfast traffic
+## 🔍 Insights Summary
 
-Recommendation: Increase staffing and speed of service during peak morning hours.
+### ⏰ Peak Sales Hours
+Sales peak between **8 AM – 10 AM**, confirming the business is morning-driven.
 
-Peak Sales Activity
+**Recommendation:** Increase staffing and speed of service during peak hours.
 
-The highest sales activity occurs between:
+---
 
-8 AM – 10 AM
+### 💰 Revenue Overview
+**Total Sales:** $698,812  
+Revenue is stable with consistent customer demand.
 
-This is the most critical revenue window of the day.
+---
 
-Business action:
+### 🏬 Store Performance
+Hell’s Kitchen leads in revenue and footfall.  
+Sales performance strongly correlates with customer traffic.
 
-Promote combo deals during morning rush
+---
 
-Prepare high-demand items in advance
+### 🛒 Customer Behavior
+- Average bill per customer: **$4.69**
+- Average items per order: **1.44**
 
-Optimize queue management
+Customers prefer quick, low-ticket purchases.
 
-Total Revenue
+---
 
-Total Sales: $698,812.33
+### 🥇 Top-Selling Products
 
-Revenue is stable and consistent, indicating a reliable customer base with steady demand.
+1. Barista Espresso
+2. Brewed Black Tea
+3. Brewed Chai Tea
+4. Gourmet Coffee
+5. Hot Chocolate
 
-Store Performance
+Beverages dominate total revenue.
 
-Store comparison shows:
+---
 
-Hell’s Kitchen → highest revenue
+## 📈 Final Conclusion
 
-Astoria → second highest
+The coffee shop operates as a **morning-driven, beverage-focused, high-volume retail business**.
 
-Lower Manhattan → slightly lower
+Key revenue drivers:
+- Peak morning traffic
+- Store location footfall
+- Beverage product performance
 
-Sales performance closely follows customer footfall.
+Operational improvements should focus on optimizing morning service and promoting high-demand drinks.
 
-👉 Higher traffic = higher revenue
-👉 Location quality is a major performance driver
+---
 
-Customer Spending Behavior
+## 🛠 Tools Used
 
-Average bill per customer: $4.69
+- Microsoft Excel
+- Pivot Tables
+- Dashboard Design
+- Data Visualization
+- KPI Reporting
+- Business Analysis
 
-Average items per customer: 1.44
+---
 
-This reflects a high-volume, low-ticket purchasing model where customers make quick, affordable purchases.
+## 📁 Project Files
 
-Top-Selling Products
+- Excel dashboard file
+- Dataset
+- Dashboard screenshots
 
-The strongest revenue-generating products are:
+---
 
-Barista Espresso
-
-Brewed Black Tea
-
-Brewed Chai Tea
-
-Gourmet Coffee
-
-Hot Chocolate
-
-Beverages dominate total sales and define the brand’s core offering.
-
-Category Distribution
-
-Coffee leads overall category share, followed by tea and bakery items. Specialty drinks contribute a smaller but stable portion of revenue.
-
-This confirms that beverage quality and variety are critical to business success.
-
-📈 Final Conclusion
-
-The coffee shop operates as a:
-
-Morning-driven, beverage-focused, high-volume retail business
-
-Key revenue drivers include:
-
-Peak morning traffic
-
-Store location footfall
-
-Beverage product performance
-
-Operational improvements should focus on optimizing morning service, expanding top-selling beverage lines, and leveraging peak hours for promotions.
+⭐ If you found this project useful, feel free to star the repo!
