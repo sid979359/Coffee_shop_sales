@@ -88,6 +88,79 @@ Key revenue drivers:
 Operational improvements should focus on optimizing morning service and promoting high-demand drinks.
 
 ---
+## 📌 Answers to Business Questions
+
+### 1. How do sales vary by day of the week and hour of the day?
+
+Sales are concentrated in the morning hours, with a strong rise starting at 7 AM and a peak between **8 AM – 10 AM**. After late morning, sales gradually decline and reach their lowest levels in the evening.
+
+Weekday performance is consistent, indicating stable daily demand rather than extreme fluctuations.
+
+👉 The coffee shop functions as a morning-driven business.
+
+---
+
+### 2. Are there any peak times for sales activity?
+
+Yes. The highest sales activity occurs between **8 AM and 10 AM**.
+
+This window represents the main commuter and breakfast rush period.
+
+**Business implication:** Additional staff and faster service during this time can significantly improve revenue efficiency.
+
+---
+
+### 3. What is the total sales revenue for each month?
+
+The dashboard reports total cumulative sales of:
+
+**$698,812.33**
+
+Monthly filtering shows relatively stable revenue distribution without sharp seasonal drops, indicating consistent customer demand.
+
+---
+
+### 4. How do sales vary across different store locations?
+
+Store performance ranking:
+
+1. Hell’s Kitchen – highest revenue
+2. Astoria – second highest
+3. Lower Manhattan – slightly lower
+
+Sales performance closely follows footfall numbers, confirming that location traffic is a key revenue driver.
+
+---
+
+### 5. What is the average price/order per person?
+
+- Average bill per customer: **$4.69**
+- Average items per order: **1.44**
+
+This reflects a high-volume, low-ticket retail model where customers prefer quick purchases.
+
+---
+
+### 6. Which products are the best-selling in terms of quantity and revenue?
+
+Top-performing products include:
+
+- Barista Espresso
+- Brewed Black Tea
+- Brewed Chai Tea
+- Gourmet Coffee
+- Hot Chocolate
+
+Beverages dominate both quantity and revenue.
+
+---
+
+### 7. How do sales vary by product category and type?
+
+Coffee holds the largest share of category distribution, followed by tea and bakery products. Specialty beverages contribute a smaller but steady portion of sales.
+
+This confirms the business is primarily beverage-focused.
+
 
 ## 🛠 Tools Used
 
